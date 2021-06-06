@@ -1,0 +1,26 @@
+{
+  "name": "socketio",
+  "version": "1.0.0",
+  "description": "simple socketio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinayakshahdeo/socketio.git"
+  },
+  "keywords": [
+    "socket",
+    "nodejs"
+  ],
+  "author": "vinayak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinayakshahdeo/socketio/issues"
+  },
+  "homepage": "https://github.com/vinayakshahdeo/socketio#readme",
+  "dependencies": {
+    "socket.io": "^4.1.2"
+  }
+}
